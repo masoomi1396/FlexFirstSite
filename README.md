@@ -1,6 +1,6 @@
 # FlexFirstSite
 *😁 This is my first site which I create only with HTML and CSS to train Flex*
-- [Demo Project](https://github.com/masoomi1396/FlexFirstSite)
+- [Demo Project](https://masoomi1396.github.io/FlexFirstSite/)
 - Developed by Amirmohammad Masoumi
 - Created - 2023-06-07
 - 🤖 Technologies Used - Html , css 
